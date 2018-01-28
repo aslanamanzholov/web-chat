@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { NavController, AlertController } from 'ionic-angular';
-
 import { ChatPage } from '../chat/chat';
 
 @Component({
